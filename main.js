@@ -4,16 +4,16 @@ const fs = require('fs');
 
 const STEPS = 500
 let allFiles = []
-let elementChanged = 0
+let elementsChanged = 0
 
 
-const getRandomEl = (aList) =>  aList[Math.floor(Math.random() * aList.length)];
+const getRandomEl = (aList) => aList[Math.floor(Math.random() * aList.length)];
 
 
 const scrambleList = aList => {
   aList.forEach((el, idx, array) => {
     array[idx] = getRandomEl(aList);
-    elementChanged += 1;
+    elementsChanged += 1;
   })
 }
 
@@ -31,4 +31,4 @@ for (let step = 0; step < STEPS * 10; step++) {
     allFiles.forEach((list) => scrambleList(list))
 }
 
-console.log(`Changed: ${elementChanged} elements`);
+console.log(`Changed: ${elementsChanged} elements`);
