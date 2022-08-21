@@ -3,9 +3,9 @@ build:
 	docker build -t test-bullseye -f bullseye-slim.Dockerfile .
 
 run:
-	@echo "\nRunning alpine test"
+	@echo "\nRUNNING ALPINE TEST"
 	@docker run -it --rm test-alpine
-	@echo "\n\n\nRunning debian slim test"
+	@echo "\n\n\nRUNNING DEBIAN SLIM TEST"
 	@docker run -it --rm test-bullseye
 
 clean:
