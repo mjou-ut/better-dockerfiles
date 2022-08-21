@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Kasey",
+  "last_name": "Tale",
+  "email": "ktale0@ox.ac.uk",
+  "gender": "Female",
+  "ip_address": "55.159.110.73"
+}, {
+  "id": 2,
+  "first_name": "Godfree",
+  "last_name": "Imms",
+  "email": "gimms1@jiathis.com",
+  "gender": "Male",
+  "ip_address": "173.115.177.175"
+}, {
+  "id": 3,
+  "first_name": "Roda",
+  "last_name": "Garmey",
+  "email": "rgarmey2@google.cn",
+  "gender": "Non-binary",
+  "ip_address": "115.164.121.39"
+}, {
+  "id": 4,
+  "first_name": "Clifford",
+  "last_name": "Rushby",
+  "email": "crushby3@thetimes.co.uk",
+  "gender": "Male",
+  "ip_address": "139.93.212.12"
+}, {
+  "id": 5,
+  "first_name": "Caesar",
+  "last_name": "Duckit",
+  "email": "cduckit4@amazon.de",
+  "gender": "Male",
+  "ip_address": "115.64.80.28"
+}, {
+  "id": 6,
+  "first_name": "Wainwright",
+  "last_name": "Bleibaum",
+  "email": "wbleibaum5@adobe.com",
+  "gender": "Male",
+  "ip_address": "181.135.203.114"
+}, {
+  "id": 7,
+  "first_name": "Worth",
+  "last_name": "Nutten",
+  "email": "wnutten6@icio.us",
+  "gender": "Male",
+  "ip_address": "164.189.200.116"
+}, {
+  "id": 8,
+  "first_name": "Errick",
+  "last_name": "Farfull",
+  "email": "efarfull7@latimes.com",
+  "gender": "Male",
+  "ip_address": "73.100.68.51"
+}, {
+  "id": 9,
+  "first_name": "Elspeth",
+  "last_name": "Abrahamson",
+  "email": "eabrahamson8@arstechnica.com",
+  "gender": "Female",
+  "ip_address": "110.227.201.34"
+}, {
+  "id": 10,
+  "first_name": "Noella",
+  "last_name": "Downes",
+  "email": "ndownes9@who.int",
+  "gender": "Female",
+  "ip_address": "91.203.225.233"
+}]
